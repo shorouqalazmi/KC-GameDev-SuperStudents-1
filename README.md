@@ -1,4 +1,4 @@
-# UC-GameDev-SuperStudents-1
+# KC-GameDev-SuperStudents-1
 
 # <p dir="rtl">
 <strong>الشرح: </strong></p>
